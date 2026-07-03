@@ -168,11 +168,15 @@ AI-powered research and content generation assistant that combines real-time web
 </td>
 <td width="50%">
 
-### 🏢 Enterprise Knowledge Chatbot
-Internal knowledge-base assistant with role-based access and multi-document retrieval.
-**Stack:** LangGraph, Pinecone, FastAPI, Docker
-**Highlights:** Multi-turn context memory, source citations
-[`Repo`](#) · [`Live Demo`](#)
+### 📚 LangChain Multi-Agent Research System
+
+Production-inspired multi-agent research framework that combines live web retrieval, intelligent content extraction, structured report writing, and AI-based critique into a reusable automation pipeline.
+
+**Stack:** Python, LangChain, Groq, Tavily Search API, BeautifulSoup, Streamlit
+
+**Highlights:** Multi-agent architecture, web search & URL scraping, structured report generation, extensible AI workflow
+
+[`Repo`](https://github.com/akshay-aiml/Langchain-multi-Agent-Research-system) 
 
 </td>
 </tr>
