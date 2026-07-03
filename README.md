@@ -156,11 +156,14 @@ Prompt Engineering · Function/Tool Calling · Structured Output · CRAG · Grap
 <tr>
 <td width="50%">
 
-### 🩺 Medical RAG Assistant
-Domain-specific RAG system for querying medical literature with grounded, citation-backed answers.
-**Stack:** LangChain, FAISS, FastAPI, OpenAI
-**Highlights:** Hybrid search + re-ranking, sub-2s query latency
-[`Repo`](#) · [`Live Demo`](#)
+### 🎬 StoryCraft Agent
+AI-powered research and content generation assistant that combines real-time web search with LLM-driven summarization and short-form video script generation.
+
+**Stack:** Python, Streamlit, MCP, Groq, Tavily Search API
+
+**Highlights:** Real-time web search, MCP server integration, AI-powered summarization, YouTube Shorts & Instagram Reels script generation
+
+[`Repo`](https://github.com/akshay-aiml/StoryCraft-Agent)
 
 </td>
 <td width="50%">
