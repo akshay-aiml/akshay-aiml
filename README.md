@@ -150,7 +150,6 @@ Prompt Engineering · Function/Tool Calling · Structured Output · CRAG · Grap
 
 ## 🚀 Featured Projects
 
-> Replace the placeholders below with your real repos — see the "Repository Pinning Strategy" notes for what to prioritize.
 
 <table>
 <tr>
