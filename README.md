@@ -32,7 +32,7 @@
 I'm an **AI/ML Engineer** focused on building production-grade **Generative AI** and **Agentic AI** systems — from **RAG pipelines** and **LLM-powered applications** to scalable **backend APIs** for AI products.
 
 - 🔭 Currently building **retrieval-augmented and agentic AI systems** using LangChain, LangGraph, and vector databases
-- 🧩 Core strengths: **NLP, Deep Learning, RAG, LLM Applications, Agentic AI, MLOps**
+- 🧩 Core strengths: **Machine Learning, NLP, Deep Learning, RAG, MCP, LLM Applications, Agentic AI, MLOps**
 - ⚙️ Comfortable across the full stack — from model/prompt design to **FastAPI** backends and **cloud deployment**
 - 🎯 Goal: Ship AI systems that solve real problems, not just notebooks that demo well
 - ☕ Fun fact: I debug faster with coffee
