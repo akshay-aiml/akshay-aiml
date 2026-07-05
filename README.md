@@ -18,7 +18,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/akshayt01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:totewarakshay01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:akshay.totewar01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
   <!-- <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a> -->
 </p>
@@ -192,54 +192,7 @@ Production-inspired multi-agent research framework that combines live web retrie
 </td>
 <td width="50%">
 
-### 🖼️ Multimodal RAG
-Retrieval system handling text, tables, and images from unstructured documents.
 
-**Stack:** LlamaIndex, ChromaDB, GPT-4V
-
-**Highlights:** Layout-aware chunking, image-text joint retrieval
-
-[`Repo`](#) · [`Live Demo`](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📄 Document Intelligence Pipeline
-End-to-end pipeline for parsing, structuring, and extracting insights from documents.
-
-**Stack:** Python, FastAPI, PostgreSQL, AWS
-
-**Highlights:** OCR + structured extraction, batch processing
-
-[`Repo`](#) · [`Live Demo`](#)
-
-</td>
-<td width="50%">
-
-### 🤖 Agentic AI Workflow
-Multi-agent system that plans, delegates, and executes multi-step tasks autonomously.
-
-**Stack:** LangGraph, CrewAI, Tool Calling
-
-**Highlights:** Self-correcting agent loop, tool orchestration
-
-[`Repo`](#) · [`Live Demo`](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📝 AI Resume Analyzer
-LLM-powered tool that scores resumes against job descriptions with actionable feedback.
-
-**Stack:** OpenAI, Streamlit, FastAPI
-
-**Highlights:** Structured output parsing, ATS-style scoring
-
-[`Repo`](#) · [`Live Demo`](#)
 
 </td>
 <td width="50%">
@@ -295,7 +248,7 @@ Feel free to open an issue, fork a repo, or reach out if you're working on somet
 
 <p>
   <a href="https://www.linkedin.com/in/akshayt01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:totewarakshay01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:akshay.totewar01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <!-- <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
   <!-- <a href="YOUR_MEDIUM_URL"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> -->
   <!-- <a href="YOUR_X_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> -->
