@@ -150,7 +150,6 @@ Prompt Engineering · Function/Tool Calling · Structured Output · CRAG · Grap
 
 ## 🚀 Featured Projects
 
-
 <table>
 <tr>
 <td width="50%">
@@ -167,34 +166,39 @@ AI-powered research and content generation assistant that combines real-time web
 </td>
 <td width="50%">
 
-### 📚 LangChain Multi-Agent Research System
+### 🩺 Medical MCP Agent
+AI-powered medical assistant prototype that combines LLM-driven symptom analysis, real-time PubMed research search, and MCP-based medical tools for intelligent clinical support workflows.
 
+**Stack:** Python, Streamlit, FastAPI, MCP, Groq Llama-3.3-70B, PubMed API, BeautifulSoup
+
+**Highlights:** AI symptom extraction, differential diagnosis generation, PubMed research retrieval, medical abstract summarization, MCP server integration, REST API backend & interactive Streamlit dashboard
+
+[`Repo`](https://github.com/akshay-aiml/medical-mcp-agent)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📚 LangChain Multi-Agent Research System
 Production-inspired multi-agent research framework that combines live web retrieval, intelligent content extraction, structured report writing, and AI-based critique into a reusable automation pipeline.
 
 **Stack:** Python, LangChain, Groq, Tavily Search API, BeautifulSoup, Streamlit
 
 **Highlights:** Multi-agent architecture, web search & URL scraping, structured report generation, extensible AI workflow
 
-[`Repo`](https://github.com/akshay-aiml/Langchain-multi-Agent-Research-system) 
+[`Repo`](https://github.com/akshay-aiml/Langchain-multi-Agent-Research-system)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🖼️ Multimodal RAG
 Retrieval system handling text, tables, and images from unstructured documents.
+
 **Stack:** LlamaIndex, ChromaDB, GPT-4V
+
 **Highlights:** Layout-aware chunking, image-text joint retrieval
-[`Repo`](#) · [`Live Demo`](#)
 
-</td>
-<td width="50%">
-
-### 📄 Document Intelligence Pipeline
-End-to-end pipeline for parsing, structuring, and extracting insights from documents.
-**Stack:** Python, FastAPI, PostgreSQL, AWS
-**Highlights:** OCR + structured extraction, batch processing
 [`Repo`](#) · [`Live Demo`](#)
 
 </td>
@@ -202,20 +206,43 @@ End-to-end pipeline for parsing, structuring, and extracting insights from docum
 <tr>
 <td width="50%">
 
-### 🤖 Agentic AI Workflow
-Multi-agent system that plans, delegates, and executes multi-step tasks autonomously.
-**Stack:** LangGraph, CrewAI, Tool Calling
-**Highlights:** Self-correcting agent loop, tool orchestration
+### 📄 Document Intelligence Pipeline
+End-to-end pipeline for parsing, structuring, and extracting insights from documents.
+
+**Stack:** Python, FastAPI, PostgreSQL, AWS
+
+**Highlights:** OCR + structured extraction, batch processing
+
 [`Repo`](#) · [`Live Demo`](#)
 
 </td>
 <td width="50%">
 
+### 🤖 Agentic AI Workflow
+Multi-agent system that plans, delegates, and executes multi-step tasks autonomously.
+
+**Stack:** LangGraph, CrewAI, Tool Calling
+
+**Highlights:** Self-correcting agent loop, tool orchestration
+
+[`Repo`](#) · [`Live Demo`](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📝 AI Resume Analyzer
 LLM-powered tool that scores resumes against job descriptions with actionable feedback.
+
 **Stack:** OpenAI, Streamlit, FastAPI
+
 **Highlights:** Structured output parsing, ATS-style scoring
+
 [`Repo`](#) · [`Live Demo`](#)
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
