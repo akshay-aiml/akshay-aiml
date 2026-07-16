@@ -154,14 +154,14 @@ Prompt Engineering · Function/Tool Calling · Structured Output · CRAG · Grap
 <tr>
 <td width="50%">
 
-### 🎬 StoryCraft Agent
+### 🎬 StoryForge Agent
 AI-powered research and content generation assistant that combines real-time web search with LLM-driven summarization and short-form video script generation.
 
 **Stack:** Python, Streamlit, MCP, Groq, Tavily Search API
 
 **Highlights:** Real-time web search, MCP server integration, AI-powered summarization, YouTube Shorts & Instagram Reels script generation
 
-[`Repo`](https://github.com/akshay-aiml/StoryCraft-Agent)
+[`Repo`](https://github.com/akshay-aiml/StoryForge-Agent)
 
 </td>
 <td width="50%">
