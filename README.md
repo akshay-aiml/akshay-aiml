@@ -192,7 +192,16 @@ Production-inspired multi-agent research framework that combines live web retrie
 </td>
 <td width="50%">
 
+### 🌍 TravelMind AI
+Production-inspired AI travel planning platform powered by a LangGraph multi-agent workflow that researches flights, hotels, and generates personalized day-by-day travel itineraries with persistent conversation memory.
 
+**Stack:** Python, FastAPI, LangGraph, LangChain, Groq, PostgreSQL, Tavily, AviationStack
+
+**Highlights:** Multi-agent architecture, live flight search, AI-powered hotel research, itinerary generation, PostgreSQL session memory, PDF export, responsive SaaS UI
+
+[`Repo`](https://github.com/akshay-aiml/TravelMind-AI)
+
+</td>
 
 </td>
 <td width="50%">
